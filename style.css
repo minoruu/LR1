@@ -1,0 +1,16 @@
+body{
+	background-color: #CAFAFE;
+
+}
+h1{text-align: center; font-size: 35pt; }
+p{margin-top: 10%; font-size: 17pt;}
+#header2{text-align: center; color: #ADADAD; font-size: 20pt;}
+
+#header3{
+	text-align: center; 
+	color: red; 
+	font-size: 23pt; 
+}
+
+.right{text-align: right; font-size: 17pt; margin: 1em;}
+hr{color: red; margin-top: 15%;}
